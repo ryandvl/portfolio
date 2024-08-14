@@ -1,7 +1,16 @@
 {
   "name": "portfolio",
-  "version": "0.1.0",
-  "private": true,
+  "description": "ryandvl's personal portfolio",
+  "version": "1.0.0",
+  "author": {
+    "name": "ryandvl",
+    "url": "https://github.com/ryandvl"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/ryandvl/portfolio"
+  },
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
